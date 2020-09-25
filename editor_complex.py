@@ -88,7 +88,7 @@ class Editor():
 
     def save_as(self):
         """save as file"""
-        filepath = fd.asksaveasfilename(filetypes=[("Text Files", "*.txt"), ("All Files", "*.*")])
+        filepath = fd.asksaveasfilename(defaultextension="txt", filetypes=[("Text Documents(*.txt)", "*.txt"), ("All Files", "*.*")])
         if not filepath:
             return
         with open(filepath, "w") as file:
@@ -104,5 +104,6 @@ class Editor():
 
 
 window = tk.Tk()
+window.geometry("450x400-0-1")
 editor = Editor(window)
 window.mainloop()

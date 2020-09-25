@@ -32,5 +32,5 @@ def handle_key(e):
 window.bind("key", handle_key)
 clear.pack(side=tk.RIGHT, padx=10, ipadx=10)
 
-window.title("Address Form")
+window.title("Registration Form")
 window.mainloop()
