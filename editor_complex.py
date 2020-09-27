@@ -7,7 +7,7 @@ class Editor():
     def __init__(self, master):
         self.master = master
         master.title("NIIT Editor")
-        self.text_editor = tk.Text(master, fg="#fefefe", bg="#555")
+        self.text_editor = tk.Text(master, fg="#fefefe", bg="#555", padx=5, pady=5, font=("arial", 12, "normal"))
         self.text_editor.insert(1.0, "Edit your text here")
         self.text_editor.pack(fill=tk.BOTH, expand=1)
         self.createMenu()
@@ -104,6 +104,11 @@ class Editor():
 
 
 window = tk.Tk()
-window.geometry("450x400-0-1")
+sw = window.winfo_screenwidth()
+sh = window.winfo_screenheight()
+
+#window.geometry("450x400-0-1")
+window.geometry(f"{sw}x{sh}")
+window.configure(bg="powder blue")
 editor = Editor(window)
 window.mainloop()
