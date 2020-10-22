@@ -1,0 +1,11 @@
+{
+    "name": "Peter",
+    "Roll_no": "0090014",
+    "Grade": "A",
+    "Age": 20,
+    "subjects": [
+        "Computer Graphics",
+        "Discrete Mathematics",
+        "Data Structure"
+    ]
+}

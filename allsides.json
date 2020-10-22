@@ -1,0 +1,1352 @@
+[
+    {
+        "name": "ABC News (Online)",
+        "allsides_page": "https://www.allsides.com/news-source/abc-news-media-bias",
+        "bias": "left-center",
+        "agree": 25936,
+        "disagree": 14232,
+        "agree_ratio": 1.822372119168072,
+        "agreeance_text": 1.822372119168072
+    },
+    {
+        "name": "AlterNet",
+        "allsides_page": "https://www.allsides.com/news-source/alternet-media-bias",
+        "bias": "left",
+        "agree": 9248,
+        "disagree": 2015,
+        "agree_ratio": 4.589578163771712,
+        "agreeance_text": 4.589578163771712
+    },
+    {
+        "name": "AP Politics & Fact Check",
+        "allsides_page": "https://www.allsides.com/news-source/ap-fact-check-media-bias",
+        "bias": "left-center",
+        "agree": 766,
+        "disagree": 863,
+        "agree_ratio": 0.8876013904982619,
+        "agreeance_text": 0.8876013904982619
+    },
+    {
+        "name": "Associated Press",
+        "allsides_page": "https://www.allsides.com/news-source/associated-press-media-bias",
+        "bias": "center",
+        "agree": 17845,
+        "disagree": 13139,
+        "agree_ratio": 1.3581703325976102,
+        "agreeance_text": 1.3581703325976102
+    },
+    {
+        "name": "Axios",
+        "allsides_page": "https://www.allsides.com/news-source/axios",
+        "bias": "center",
+        "agree": 2482,
+        "disagree": 2763,
+        "agree_ratio": 0.8982989504162142,
+        "agreeance_text": 0.8982989504162142
+    },
+    {
+        "name": "BBC News",
+        "allsides_page": "https://www.allsides.com/news-source/bbc-news-media-bias",
+        "bias": "center",
+        "agree": 21594,
+        "disagree": 19108,
+        "agree_ratio": 1.1301025748377642,
+        "agreeance_text": 1.1301025748377642
+    },
+    {
+        "name": "Bloomberg",
+        "allsides_page": "https://www.allsides.com/news-source/bloomberg-media-bias",
+        "bias": "left-center",
+        "agree": 11845,
+        "disagree": 17632,
+        "agree_ratio": 0.6717899274047187,
+        "agreeance_text": 0.6717899274047187
+    },
+    {
+        "name": "Breitbart News",
+        "allsides_page": "https://www.allsides.com/news-source/breitbart",
+        "bias": "right",
+        "agree": 29942,
+        "disagree": 9912,
+        "agree_ratio": 3.020782889426957,
+        "agreeance_text": 3.020782889426957
+    },
+    {
+        "name": "BuzzFeed News",
+        "allsides_page": "https://www.allsides.com/news-source/buzzfeed-media-bias",
+        "bias": "left",
+        "agree": 16850,
+        "disagree": 8252,
+        "agree_ratio": 2.0419292292777507,
+        "agreeance_text": 2.0419292292777507
+    },
+    {
+        "name": "CBS News",
+        "allsides_page": "https://www.allsides.com/news-source/cbs-news-media-bias",
+        "bias": "left-center",
+        "agree": 13961,
+        "disagree": 9407,
+        "agree_ratio": 1.4841075794621026,
+        "agreeance_text": 1.4841075794621026
+    },
+    {
+        "name": "Christian Science Monitor",
+        "allsides_page": "https://www.allsides.com/news-source/christian-science-monitor",
+        "bias": "center",
+        "agree": 13033,
+        "disagree": 16345,
+        "agree_ratio": 0.7973692260630162,
+        "agreeance_text": 0.7973692260630162
+    },
+    {
+        "name": "CNN (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/cnn-editorial",
+        "bias": "left",
+        "agree": 21665,
+        "disagree": 5116,
+        "agree_ratio": 4.234753713838937,
+        "agreeance_text": 4.234753713838937
+    },
+    {
+        "name": "CNN (Web News)",
+        "allsides_page": "https://www.allsides.com/news-source/cnn-media-bias",
+        "bias": "left-center",
+        "agree": 38309,
+        "disagree": 41058,
+        "agree_ratio": 0.933045935018754,
+        "agreeance_text": 0.933045935018754
+    },
+    {
+        "name": "Daily Beast",
+        "allsides_page": "https://www.allsides.com/news-source/daily-beast-media-bias",
+        "bias": "left",
+        "agree": 14593,
+        "disagree": 5342,
+        "agree_ratio": 2.7317484088356423,
+        "agreeance_text": 2.7317484088356423
+    },
+    {
+        "name": "Daily Mail",
+        "allsides_page": "https://www.allsides.com/news-source/daily-mail",
+        "bias": "right",
+        "agree": 7628,
+        "disagree": 4482,
+        "agree_ratio": 1.7019187862561356,
+        "agreeance_text": 1.7019187862561356
+    },
+    {
+        "name": "Democracy Now",
+        "allsides_page": "https://www.allsides.com/news-source/democracy-now",
+        "bias": "left",
+        "agree": 10166,
+        "disagree": 2535,
+        "agree_ratio": 4.01025641025641,
+        "agreeance_text": 4.01025641025641
+    },
+    {
+        "name": "Forbes",
+        "allsides_page": "https://www.allsides.com/news-source/forbes",
+        "bias": "center",
+        "agree": 9779,
+        "disagree": 5391,
+        "agree_ratio": 1.8139491745501761,
+        "agreeance_text": 1.8139491745501761
+    },
+    {
+        "name": "Fox News (Online News)",
+        "allsides_page": "https://www.allsides.com/news-source/fox-news-media-bias",
+        "bias": "right-center",
+        "agree": 33014,
+        "disagree": 40401,
+        "agree_ratio": 0.8171579911388333,
+        "agreeance_text": 0.8171579911388333
+    },
+    {
+        "name": "Fox News (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/fox-news-editorial-media-bias",
+        "bias": "right",
+        "agree": 18369,
+        "disagree": 4159,
+        "agree_ratio": 4.416686703534504,
+        "agreeance_text": 4.416686703534504
+    },
+    {
+        "name": "HuffPost",
+        "allsides_page": "https://www.allsides.com/news-source/huffpost-media-bias",
+        "bias": "left",
+        "agree": 29639,
+        "disagree": 21334,
+        "agree_ratio": 1.3892847098528172,
+        "agreeance_text": 1.3892847098528172
+    },
+    {
+        "name": "Mother Jones",
+        "allsides_page": "https://www.allsides.com/news-source/mother-jones-bias",
+        "bias": "left",
+        "agree": 11374,
+        "disagree": 1762,
+        "agree_ratio": 6.45516458569807,
+        "agreeance_text": 6.45516458569807
+    },
+    {
+        "name": "MSNBC",
+        "allsides_page": "https://www.allsides.com/news-source/msnbc",
+        "bias": "left",
+        "agree": 14375,
+        "disagree": 4041,
+        "agree_ratio": 3.5572878000494925,
+        "agreeance_text": 3.5572878000494925
+    },
+    {
+        "name": "National Review",
+        "allsides_page": "https://www.allsides.com/news-source/national-review",
+        "bias": "right",
+        "agree": 15055,
+        "disagree": 6306,
+        "agree_ratio": 2.3874088169996828,
+        "agreeance_text": 2.3874088169996828
+    },
+    {
+        "name": "NBC News (Online)",
+        "allsides_page": "https://www.allsides.com/news-source/nbc-news-media-bias",
+        "bias": "left-center",
+        "agree": 8486,
+        "disagree": 9075,
+        "agree_ratio": 0.9350964187327824,
+        "agreeance_text": 0.9350964187327824
+    },
+    {
+        "name": "New York Post (News)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-post",
+        "bias": "right-center",
+        "agree": 9066,
+        "disagree": 5223,
+        "agree_ratio": 1.735784032165422,
+        "agreeance_text": 1.735784032165422
+    },
+    {
+        "name": "New York Times (News)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-times",
+        "bias": "left-center",
+        "agree": 23125,
+        "disagree": 32875,
+        "agree_ratio": 0.7034220532319392,
+        "agreeance_text": 0.7034220532319392
+    },
+    {
+        "name": "New York Times (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-times-opinion-media-bias",
+        "bias": "left",
+        "agree": 9388,
+        "disagree": 2635,
+        "agree_ratio": 3.56280834914611,
+        "agreeance_text": 3.56280834914611
+    },
+    {
+        "name": "NPR (Online News)",
+        "allsides_page": "https://www.allsides.com/news-source/npr-media-bias",
+        "bias": "center",
+        "agree": 26099,
+        "disagree": 21985,
+        "agree_ratio": 1.1871275869911304,
+        "agreeance_text": 1.1871275869911304
+    },
+    {
+        "name": "NPR (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/npr-editorial",
+        "bias": "left-center",
+        "agree": 5309,
+        "disagree": 5931,
+        "agree_ratio": 0.8951272972517282,
+        "agreeance_text": 0.8951272972517282
+    },
+    {
+        "name": "Politico",
+        "allsides_page": "https://www.allsides.com/news-source/politico-media-bias",
+        "bias": "left-center",
+        "agree": 19440,
+        "disagree": 26425,
+        "agree_ratio": 0.7356669820245979,
+        "agreeance_text": 0.7356669820245979
+    },
+    {
+        "name": "Reason",
+        "allsides_page": "https://www.allsides.com/news-source/reason",
+        "bias": "right-center",
+        "agree": 7618,
+        "disagree": 4734,
+        "agree_ratio": 1.6092099704267004,
+        "agreeance_text": 1.6092099704267004
+    },
+    {
+        "name": "Reuters",
+        "allsides_page": "https://www.allsides.com/news-source/reuters",
+        "bias": "center",
+        "agree": 13035,
+        "disagree": 7033,
+        "agree_ratio": 1.8534053746623063,
+        "agreeance_text": 1.8534053746623063
+    },
+    {
+        "name": "Slate",
+        "allsides_page": "https://www.allsides.com/news-source/slate",
+        "bias": "left",
+        "agree": 6945,
+        "disagree": 3060,
+        "agree_ratio": 2.269607843137255,
+        "agreeance_text": 2.269607843137255
+    },
+    {
+        "name": "The American Spectator",
+        "allsides_page": "https://www.allsides.com/news-source/american-spectator",
+        "bias": "right",
+        "agree": 10411,
+        "disagree": 3704,
+        "agree_ratio": 2.810745140388769,
+        "agreeance_text": 2.810745140388769
+    },
+    {
+        "name": "The Atlantic",
+        "allsides_page": "https://www.allsides.com/news-source/atlantic",
+        "bias": "left-center",
+        "agree": 11208,
+        "disagree": 5650,
+        "agree_ratio": 1.983716814159292,
+        "agreeance_text": 1.983716814159292
+    },
+    {
+        "name": "The Daily Caller",
+        "allsides_page": "https://www.allsides.com/news-source/daily-caller",
+        "bias": "right",
+        "agree": 7841,
+        "disagree": 3300,
+        "agree_ratio": 2.376060606060606,
+        "agreeance_text": 2.376060606060606
+    },
+    {
+        "name": "The Daily Wire",
+        "allsides_page": "https://www.allsides.com/news-source/daily-wire",
+        "bias": "right",
+        "agree": 7126,
+        "disagree": 2673,
+        "agree_ratio": 2.6659184436962216,
+        "agreeance_text": 2.6659184436962216
+    },
+    {
+        "name": "The Economist",
+        "allsides_page": "https://www.allsides.com/news-source/economist",
+        "bias": "left-center",
+        "agree": 3850,
+        "disagree": 6955,
+        "agree_ratio": 0.5535585909417685,
+        "agreeance_text": 0.5535585909417685
+    },
+    {
+        "name": "The Federalist",
+        "allsides_page": "https://www.allsides.com/news-source/federalist",
+        "bias": "right",
+        "agree": 6080,
+        "disagree": 2081,
+        "agree_ratio": 2.921672272945699,
+        "agreeance_text": 2.921672272945699
+    },
+    {
+        "name": "The Guardian",
+        "allsides_page": "https://www.allsides.com/news-source/guardian",
+        "bias": "left-center",
+        "agree": 10297,
+        "disagree": 6151,
+        "agree_ratio": 1.6740367419931719,
+        "agreeance_text": 1.6740367419931719
+    },
+    {
+        "name": "The Hill",
+        "allsides_page": "https://www.allsides.com/news-source/hill-media-bias",
+        "bias": "center",
+        "agree": 12257,
+        "disagree": 15794,
+        "agree_ratio": 0.7760541977966317,
+        "agreeance_text": 0.7760541977966317
+    },
+    {
+        "name": "The Intercept",
+        "allsides_page": "https://www.allsides.com/news-source/intercept",
+        "bias": "left",
+        "agree": 3606,
+        "disagree": 1154,
+        "agree_ratio": 3.1247833622183707,
+        "agreeance_text": 3.1247833622183707
+    },
+    {
+        "name": "The New Yorker",
+        "allsides_page": "https://www.allsides.com/news-source/new-yorker",
+        "bias": "left",
+        "agree": 6400,
+        "disagree": 1617,
+        "agree_ratio": 3.9579468150896724,
+        "agreeance_text": 3.9579468150896724
+    },
+    {
+        "name": "TheBlaze.com",
+        "allsides_page": "https://www.allsides.com/news-source/theblaze-bias",
+        "bias": "right",
+        "agree": 89431,
+        "disagree": 74108,
+        "agree_ratio": 1.2067658012630216,
+        "agreeance_text": 1.2067658012630216
+    },
+    {
+        "name": "Time Magazine",
+        "allsides_page": "https://www.allsides.com/news-source/time-magazine-news-media-bias",
+        "bias": "left-center",
+        "agree": 7049,
+        "disagree": 5928,
+        "agree_ratio": 1.189102564102564,
+        "agreeance_text": 1.189102564102564
+    },
+    {
+        "name": "USA TODAY",
+        "allsides_page": "https://www.allsides.com/news-source/usa-today-media-bias",
+        "bias": "center",
+        "agree": 15569,
+        "disagree": 15111,
+        "agree_ratio": 1.030309046390047,
+        "agreeance_text": 1.030309046390047
+    },
+    {
+        "name": "Vox",
+        "allsides_page": "https://www.allsides.com/news-source/vox-news-media-bias",
+        "bias": "left",
+        "agree": 22146,
+        "disagree": 13959,
+        "agree_ratio": 1.5865033311841823,
+        "agreeance_text": 1.5865033311841823
+    },
+    {
+        "name": "Wall Street Journal (News)",
+        "allsides_page": "https://www.allsides.com/news-source/wall-street-journal-media-bias",
+        "bias": "center",
+        "agree": 17635,
+        "disagree": 21342,
+        "agree_ratio": 0.8263049386186861,
+        "agreeance_text": 0.8263049386186861
+    },
+    {
+        "name": "Wall Street Journal (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/wall-street-journal-opinion",
+        "bias": "right-center",
+        "agree": 8330,
+        "disagree": 5684,
+        "agree_ratio": 1.4655172413793103,
+        "agreeance_text": 1.4655172413793103
+    },
+    {
+        "name": "Washington Examiner",
+        "allsides_page": "https://www.allsides.com/news-source/washington-examiner",
+        "bias": "right-center",
+        "agree": 9005,
+        "disagree": 4190,
+        "agree_ratio": 2.149164677804296,
+        "agreeance_text": 2.149164677804296
+    },
+    {
+        "name": "ABC News (Online)",
+        "allsides_page": "https://www.allsides.com/news-source/abc-news-media-bias",
+        "bias": "left-center",
+        "agree": 25936,
+        "disagree": 14232,
+        "agree_ratio": 1.822372119168072,
+        "agreeance_text": 1.822372119168072
+    },
+    {
+        "name": "AlterNet",
+        "allsides_page": "https://www.allsides.com/news-source/alternet-media-bias",
+        "bias": "left",
+        "agree": 9248,
+        "disagree": 2015,
+        "agree_ratio": 4.589578163771712,
+        "agreeance_text": 4.589578163771712
+    },
+    {
+        "name": "AP Politics & Fact Check",
+        "allsides_page": "https://www.allsides.com/news-source/ap-fact-check-media-bias",
+        "bias": "left-center",
+        "agree": 766,
+        "disagree": 863,
+        "agree_ratio": 0.8876013904982619,
+        "agreeance_text": 0.8876013904982619
+    },
+    {
+        "name": "Associated Press",
+        "allsides_page": "https://www.allsides.com/news-source/associated-press-media-bias",
+        "bias": "center",
+        "agree": 17845,
+        "disagree": 13139,
+        "agree_ratio": 1.3581703325976102,
+        "agreeance_text": 1.3581703325976102
+    },
+    {
+        "name": "Axios",
+        "allsides_page": "https://www.allsides.com/news-source/axios",
+        "bias": "center",
+        "agree": 2482,
+        "disagree": 2763,
+        "agree_ratio": 0.8982989504162142,
+        "agreeance_text": 0.8982989504162142
+    },
+    {
+        "name": "BBC News",
+        "allsides_page": "https://www.allsides.com/news-source/bbc-news-media-bias",
+        "bias": "center",
+        "agree": 21594,
+        "disagree": 19108,
+        "agree_ratio": 1.1301025748377642,
+        "agreeance_text": 1.1301025748377642
+    },
+    {
+        "name": "Bloomberg",
+        "allsides_page": "https://www.allsides.com/news-source/bloomberg-media-bias",
+        "bias": "left-center",
+        "agree": 11845,
+        "disagree": 17632,
+        "agree_ratio": 0.6717899274047187,
+        "agreeance_text": 0.6717899274047187
+    },
+    {
+        "name": "Breitbart News",
+        "allsides_page": "https://www.allsides.com/news-source/breitbart",
+        "bias": "right",
+        "agree": 29942,
+        "disagree": 9912,
+        "agree_ratio": 3.020782889426957,
+        "agreeance_text": 3.020782889426957
+    },
+    {
+        "name": "BuzzFeed News",
+        "allsides_page": "https://www.allsides.com/news-source/buzzfeed-media-bias",
+        "bias": "left",
+        "agree": 16850,
+        "disagree": 8252,
+        "agree_ratio": 2.0419292292777507,
+        "agreeance_text": 2.0419292292777507
+    },
+    {
+        "name": "CBS News",
+        "allsides_page": "https://www.allsides.com/news-source/cbs-news-media-bias",
+        "bias": "left-center",
+        "agree": 13961,
+        "disagree": 9407,
+        "agree_ratio": 1.4841075794621026,
+        "agreeance_text": 1.4841075794621026
+    },
+    {
+        "name": "Christian Science Monitor",
+        "allsides_page": "https://www.allsides.com/news-source/christian-science-monitor",
+        "bias": "center",
+        "agree": 13033,
+        "disagree": 16345,
+        "agree_ratio": 0.7973692260630162,
+        "agreeance_text": 0.7973692260630162
+    },
+    {
+        "name": "CNN (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/cnn-editorial",
+        "bias": "left",
+        "agree": 21665,
+        "disagree": 5116,
+        "agree_ratio": 4.234753713838937,
+        "agreeance_text": 4.234753713838937
+    },
+    {
+        "name": "CNN (Web News)",
+        "allsides_page": "https://www.allsides.com/news-source/cnn-media-bias",
+        "bias": "left-center",
+        "agree": 38309,
+        "disagree": 41058,
+        "agree_ratio": 0.933045935018754,
+        "agreeance_text": 0.933045935018754
+    },
+    {
+        "name": "Daily Beast",
+        "allsides_page": "https://www.allsides.com/news-source/daily-beast-media-bias",
+        "bias": "left",
+        "agree": 14593,
+        "disagree": 5342,
+        "agree_ratio": 2.7317484088356423,
+        "agreeance_text": 2.7317484088356423
+    },
+    {
+        "name": "Daily Mail",
+        "allsides_page": "https://www.allsides.com/news-source/daily-mail",
+        "bias": "right",
+        "agree": 7628,
+        "disagree": 4482,
+        "agree_ratio": 1.7019187862561356,
+        "agreeance_text": 1.7019187862561356
+    },
+    {
+        "name": "Democracy Now",
+        "allsides_page": "https://www.allsides.com/news-source/democracy-now",
+        "bias": "left",
+        "agree": 10166,
+        "disagree": 2535,
+        "agree_ratio": 4.01025641025641,
+        "agreeance_text": 4.01025641025641
+    },
+    {
+        "name": "Forbes",
+        "allsides_page": "https://www.allsides.com/news-source/forbes",
+        "bias": "center",
+        "agree": 9779,
+        "disagree": 5391,
+        "agree_ratio": 1.8139491745501761,
+        "agreeance_text": 1.8139491745501761
+    },
+    {
+        "name": "Fox News (Online News)",
+        "allsides_page": "https://www.allsides.com/news-source/fox-news-media-bias",
+        "bias": "right-center",
+        "agree": 33014,
+        "disagree": 40401,
+        "agree_ratio": 0.8171579911388333,
+        "agreeance_text": 0.8171579911388333
+    },
+    {
+        "name": "Fox News (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/fox-news-editorial-media-bias",
+        "bias": "right",
+        "agree": 18369,
+        "disagree": 4159,
+        "agree_ratio": 4.416686703534504,
+        "agreeance_text": 4.416686703534504
+    },
+    {
+        "name": "HuffPost",
+        "allsides_page": "https://www.allsides.com/news-source/huffpost-media-bias",
+        "bias": "left",
+        "agree": 29639,
+        "disagree": 21334,
+        "agree_ratio": 1.3892847098528172,
+        "agreeance_text": 1.3892847098528172
+    },
+    {
+        "name": "Mother Jones",
+        "allsides_page": "https://www.allsides.com/news-source/mother-jones-bias",
+        "bias": "left",
+        "agree": 11374,
+        "disagree": 1762,
+        "agree_ratio": 6.45516458569807,
+        "agreeance_text": 6.45516458569807
+    },
+    {
+        "name": "MSNBC",
+        "allsides_page": "https://www.allsides.com/news-source/msnbc",
+        "bias": "left",
+        "agree": 14375,
+        "disagree": 4041,
+        "agree_ratio": 3.5572878000494925,
+        "agreeance_text": 3.5572878000494925
+    },
+    {
+        "name": "National Review",
+        "allsides_page": "https://www.allsides.com/news-source/national-review",
+        "bias": "right",
+        "agree": 15055,
+        "disagree": 6306,
+        "agree_ratio": 2.3874088169996828,
+        "agreeance_text": 2.3874088169996828
+    },
+    {
+        "name": "NBC News (Online)",
+        "allsides_page": "https://www.allsides.com/news-source/nbc-news-media-bias",
+        "bias": "left-center",
+        "agree": 8486,
+        "disagree": 9075,
+        "agree_ratio": 0.9350964187327824,
+        "agreeance_text": 0.9350964187327824
+    },
+    {
+        "name": "New York Post (News)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-post",
+        "bias": "right-center",
+        "agree": 9066,
+        "disagree": 5223,
+        "agree_ratio": 1.735784032165422,
+        "agreeance_text": 1.735784032165422
+    },
+    {
+        "name": "New York Times (News)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-times",
+        "bias": "left-center",
+        "agree": 23125,
+        "disagree": 32875,
+        "agree_ratio": 0.7034220532319392,
+        "agreeance_text": 0.7034220532319392
+    },
+    {
+        "name": "New York Times (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-times-opinion-media-bias",
+        "bias": "left",
+        "agree": 9388,
+        "disagree": 2635,
+        "agree_ratio": 3.56280834914611,
+        "agreeance_text": 3.56280834914611
+    },
+    {
+        "name": "NPR (Online News)",
+        "allsides_page": "https://www.allsides.com/news-source/npr-media-bias",
+        "bias": "center",
+        "agree": 26099,
+        "disagree": 21985,
+        "agree_ratio": 1.1871275869911304,
+        "agreeance_text": 1.1871275869911304
+    },
+    {
+        "name": "NPR (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/npr-editorial",
+        "bias": "left-center",
+        "agree": 5309,
+        "disagree": 5931,
+        "agree_ratio": 0.8951272972517282,
+        "agreeance_text": 0.8951272972517282
+    },
+    {
+        "name": "Politico",
+        "allsides_page": "https://www.allsides.com/news-source/politico-media-bias",
+        "bias": "left-center",
+        "agree": 19440,
+        "disagree": 26425,
+        "agree_ratio": 0.7356669820245979,
+        "agreeance_text": 0.7356669820245979
+    },
+    {
+        "name": "Reason",
+        "allsides_page": "https://www.allsides.com/news-source/reason",
+        "bias": "right-center",
+        "agree": 7618,
+        "disagree": 4734,
+        "agree_ratio": 1.6092099704267004,
+        "agreeance_text": 1.6092099704267004
+    },
+    {
+        "name": "Reuters",
+        "allsides_page": "https://www.allsides.com/news-source/reuters",
+        "bias": "center",
+        "agree": 13035,
+        "disagree": 7033,
+        "agree_ratio": 1.8534053746623063,
+        "agreeance_text": 1.8534053746623063
+    },
+    {
+        "name": "Slate",
+        "allsides_page": "https://www.allsides.com/news-source/slate",
+        "bias": "left",
+        "agree": 6945,
+        "disagree": 3060,
+        "agree_ratio": 2.269607843137255,
+        "agreeance_text": 2.269607843137255
+    },
+    {
+        "name": "The American Spectator",
+        "allsides_page": "https://www.allsides.com/news-source/american-spectator",
+        "bias": "right",
+        "agree": 10411,
+        "disagree": 3704,
+        "agree_ratio": 2.810745140388769,
+        "agreeance_text": 2.810745140388769
+    },
+    {
+        "name": "The Atlantic",
+        "allsides_page": "https://www.allsides.com/news-source/atlantic",
+        "bias": "left-center",
+        "agree": 11208,
+        "disagree": 5650,
+        "agree_ratio": 1.983716814159292,
+        "agreeance_text": 1.983716814159292
+    },
+    {
+        "name": "The Daily Caller",
+        "allsides_page": "https://www.allsides.com/news-source/daily-caller",
+        "bias": "right",
+        "agree": 7841,
+        "disagree": 3300,
+        "agree_ratio": 2.376060606060606,
+        "agreeance_text": 2.376060606060606
+    },
+    {
+        "name": "The Daily Wire",
+        "allsides_page": "https://www.allsides.com/news-source/daily-wire",
+        "bias": "right",
+        "agree": 7126,
+        "disagree": 2673,
+        "agree_ratio": 2.6659184436962216,
+        "agreeance_text": 2.6659184436962216
+    },
+    {
+        "name": "The Economist",
+        "allsides_page": "https://www.allsides.com/news-source/economist",
+        "bias": "left-center",
+        "agree": 3850,
+        "disagree": 6955,
+        "agree_ratio": 0.5535585909417685,
+        "agreeance_text": 0.5535585909417685
+    },
+    {
+        "name": "The Federalist",
+        "allsides_page": "https://www.allsides.com/news-source/federalist",
+        "bias": "right",
+        "agree": 6080,
+        "disagree": 2081,
+        "agree_ratio": 2.921672272945699,
+        "agreeance_text": 2.921672272945699
+    },
+    {
+        "name": "The Guardian",
+        "allsides_page": "https://www.allsides.com/news-source/guardian",
+        "bias": "left-center",
+        "agree": 10297,
+        "disagree": 6151,
+        "agree_ratio": 1.6740367419931719,
+        "agreeance_text": 1.6740367419931719
+    },
+    {
+        "name": "The Hill",
+        "allsides_page": "https://www.allsides.com/news-source/hill-media-bias",
+        "bias": "center",
+        "agree": 12257,
+        "disagree": 15794,
+        "agree_ratio": 0.7760541977966317,
+        "agreeance_text": 0.7760541977966317
+    },
+    {
+        "name": "The Intercept",
+        "allsides_page": "https://www.allsides.com/news-source/intercept",
+        "bias": "left",
+        "agree": 3606,
+        "disagree": 1154,
+        "agree_ratio": 3.1247833622183707,
+        "agreeance_text": 3.1247833622183707
+    },
+    {
+        "name": "The New Yorker",
+        "allsides_page": "https://www.allsides.com/news-source/new-yorker",
+        "bias": "left",
+        "agree": 6400,
+        "disagree": 1617,
+        "agree_ratio": 3.9579468150896724,
+        "agreeance_text": 3.9579468150896724
+    },
+    {
+        "name": "TheBlaze.com",
+        "allsides_page": "https://www.allsides.com/news-source/theblaze-bias",
+        "bias": "right",
+        "agree": 89431,
+        "disagree": 74108,
+        "agree_ratio": 1.2067658012630216,
+        "agreeance_text": 1.2067658012630216
+    },
+    {
+        "name": "Time Magazine",
+        "allsides_page": "https://www.allsides.com/news-source/time-magazine-news-media-bias",
+        "bias": "left-center",
+        "agree": 7049,
+        "disagree": 5928,
+        "agree_ratio": 1.189102564102564,
+        "agreeance_text": 1.189102564102564
+    },
+    {
+        "name": "USA TODAY",
+        "allsides_page": "https://www.allsides.com/news-source/usa-today-media-bias",
+        "bias": "center",
+        "agree": 15569,
+        "disagree": 15111,
+        "agree_ratio": 1.030309046390047,
+        "agreeance_text": 1.030309046390047
+    },
+    {
+        "name": "Vox",
+        "allsides_page": "https://www.allsides.com/news-source/vox-news-media-bias",
+        "bias": "left",
+        "agree": 22146,
+        "disagree": 13959,
+        "agree_ratio": 1.5865033311841823,
+        "agreeance_text": 1.5865033311841823
+    },
+    {
+        "name": "Wall Street Journal (News)",
+        "allsides_page": "https://www.allsides.com/news-source/wall-street-journal-media-bias",
+        "bias": "center",
+        "agree": 17635,
+        "disagree": 21342,
+        "agree_ratio": 0.8263049386186861,
+        "agreeance_text": 0.8263049386186861
+    },
+    {
+        "name": "Wall Street Journal (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/wall-street-journal-opinion",
+        "bias": "right-center",
+        "agree": 8330,
+        "disagree": 5684,
+        "agree_ratio": 1.4655172413793103,
+        "agreeance_text": 1.4655172413793103
+    },
+    {
+        "name": "Washington Examiner",
+        "allsides_page": "https://www.allsides.com/news-source/washington-examiner",
+        "bias": "right-center",
+        "agree": 9005,
+        "disagree": 4190,
+        "agree_ratio": 2.149164677804296,
+        "agreeance_text": 2.149164677804296
+    },
+    {
+        "name": "ABC News (Online)",
+        "allsides_page": "https://www.allsides.com/news-source/abc-news-media-bias",
+        "bias": "left-center",
+        "agree": 25938,
+        "disagree": 14232,
+        "agree_ratio": 1.8225126475548061,
+        "agreeance_text": 1.8225126475548061
+    },
+    {
+        "name": "AlterNet",
+        "allsides_page": "https://www.allsides.com/news-source/alternet-media-bias",
+        "bias": "left",
+        "agree": 9248,
+        "disagree": 2015,
+        "agree_ratio": 4.589578163771712,
+        "agreeance_text": 4.589578163771712
+    },
+    {
+        "name": "AP Politics & Fact Check",
+        "allsides_page": "https://www.allsides.com/news-source/ap-fact-check-media-bias",
+        "bias": "left-center",
+        "agree": 766,
+        "disagree": 863,
+        "agree_ratio": 0.8876013904982619,
+        "agreeance_text": 0.8876013904982619
+    },
+    {
+        "name": "Associated Press",
+        "allsides_page": "https://www.allsides.com/news-source/associated-press-media-bias",
+        "bias": "center",
+        "agree": 17846,
+        "disagree": 13139,
+        "agree_ratio": 1.3582464418905549,
+        "agreeance_text": 1.3582464418905549
+    },
+    {
+        "name": "Axios",
+        "allsides_page": "https://www.allsides.com/news-source/axios",
+        "bias": "center",
+        "agree": 2482,
+        "disagree": 2763,
+        "agree_ratio": 0.8982989504162142,
+        "agreeance_text": 0.8982989504162142
+    },
+    {
+        "name": "BBC News",
+        "allsides_page": "https://www.allsides.com/news-source/bbc-news-media-bias",
+        "bias": "center",
+        "agree": 21595,
+        "disagree": 19108,
+        "agree_ratio": 1.1301549089386644,
+        "agreeance_text": 1.1301549089386644
+    },
+    {
+        "name": "Bloomberg",
+        "allsides_page": "https://www.allsides.com/news-source/bloomberg-media-bias",
+        "bias": "left-center",
+        "agree": 11846,
+        "disagree": 17632,
+        "agree_ratio": 0.6718466424682396,
+        "agreeance_text": 0.6718466424682396
+    },
+    {
+        "name": "Breitbart News",
+        "allsides_page": "https://www.allsides.com/news-source/breitbart",
+        "bias": "right",
+        "agree": 29943,
+        "disagree": 9912,
+        "agree_ratio": 3.0208837772397095,
+        "agreeance_text": 3.0208837772397095
+    },
+    {
+        "name": "BuzzFeed News",
+        "allsides_page": "https://www.allsides.com/news-source/buzzfeed-media-bias",
+        "bias": "left",
+        "agree": 16850,
+        "disagree": 8253,
+        "agree_ratio": 2.041681812674179,
+        "agreeance_text": 2.041681812674179
+    },
+    {
+        "name": "CBS News",
+        "allsides_page": "https://www.allsides.com/news-source/cbs-news-media-bias",
+        "bias": "left-center",
+        "agree": 13965,
+        "disagree": 9407,
+        "agree_ratio": 1.4845327947273308,
+        "agreeance_text": 1.4845327947273308
+    },
+    {
+        "name": "Christian Science Monitor",
+        "allsides_page": "https://www.allsides.com/news-source/christian-science-monitor",
+        "bias": "center",
+        "agree": 13033,
+        "disagree": 16345,
+        "agree_ratio": 0.7973692260630162,
+        "agreeance_text": 0.7973692260630162
+    },
+    {
+        "name": "CNN (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/cnn-editorial",
+        "bias": "left",
+        "agree": 21666,
+        "disagree": 5116,
+        "agree_ratio": 4.23494917904613,
+        "agreeance_text": 4.23494917904613
+    },
+    {
+        "name": "CNN (Web News)",
+        "allsides_page": "https://www.allsides.com/news-source/cnn-media-bias",
+        "bias": "left-center",
+        "agree": 38310,
+        "disagree": 41059,
+        "agree_ratio": 0.9330475656981417,
+        "agreeance_text": 0.9330475656981417
+    },
+    {
+        "name": "Daily Beast",
+        "allsides_page": "https://www.allsides.com/news-source/daily-beast-media-bias",
+        "bias": "left",
+        "agree": 14593,
+        "disagree": 5342,
+        "agree_ratio": 2.7317484088356423,
+        "agreeance_text": 2.7317484088356423
+    },
+    {
+        "name": "Daily Mail",
+        "allsides_page": "https://www.allsides.com/news-source/daily-mail",
+        "bias": "right",
+        "agree": 7630,
+        "disagree": 4482,
+        "agree_ratio": 1.7023650156180277,
+        "agreeance_text": 1.7023650156180277
+    },
+    {
+        "name": "Democracy Now",
+        "allsides_page": "https://www.allsides.com/news-source/democracy-now",
+        "bias": "left",
+        "agree": 10166,
+        "disagree": 2535,
+        "agree_ratio": 4.01025641025641,
+        "agreeance_text": 4.01025641025641
+    },
+    {
+        "name": "Forbes",
+        "allsides_page": "https://www.allsides.com/news-source/forbes",
+        "bias": "center",
+        "agree": 9779,
+        "disagree": 5391,
+        "agree_ratio": 1.8139491745501761,
+        "agreeance_text": 1.8139491745501761
+    },
+    {
+        "name": "Fox News (Online News)",
+        "allsides_page": "https://www.allsides.com/news-source/fox-news-media-bias",
+        "bias": "right-center",
+        "agree": 33014,
+        "disagree": 40401,
+        "agree_ratio": 0.8171579911388333,
+        "agreeance_text": 0.8171579911388333
+    },
+    {
+        "name": "Fox News (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/fox-news-editorial-media-bias",
+        "bias": "right",
+        "agree": 18369,
+        "disagree": 4159,
+        "agree_ratio": 4.416686703534504,
+        "agreeance_text": 4.416686703534504
+    },
+    {
+        "name": "HuffPost",
+        "allsides_page": "https://www.allsides.com/news-source/huffpost-media-bias",
+        "bias": "left",
+        "agree": 29639,
+        "disagree": 21334,
+        "agree_ratio": 1.3892847098528172,
+        "agreeance_text": 1.3892847098528172
+    },
+    {
+        "name": "Mother Jones",
+        "allsides_page": "https://www.allsides.com/news-source/mother-jones-bias",
+        "bias": "left",
+        "agree": 11374,
+        "disagree": 1762,
+        "agree_ratio": 6.45516458569807,
+        "agreeance_text": 6.45516458569807
+    },
+    {
+        "name": "MSNBC",
+        "allsides_page": "https://www.allsides.com/news-source/msnbc",
+        "bias": "left",
+        "agree": 14376,
+        "disagree": 4041,
+        "agree_ratio": 3.5575352635486266,
+        "agreeance_text": 3.5575352635486266
+    },
+    {
+        "name": "National Review",
+        "allsides_page": "https://www.allsides.com/news-source/national-review",
+        "bias": "right",
+        "agree": 15055,
+        "disagree": 6306,
+        "agree_ratio": 2.3874088169996828,
+        "agreeance_text": 2.3874088169996828
+    },
+    {
+        "name": "NBC News (Online)",
+        "allsides_page": "https://www.allsides.com/news-source/nbc-news-media-bias",
+        "bias": "left-center",
+        "agree": 8486,
+        "disagree": 9075,
+        "agree_ratio": 0.9350964187327824,
+        "agreeance_text": 0.9350964187327824
+    },
+    {
+        "name": "New York Post (News)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-post",
+        "bias": "right-center",
+        "agree": 9066,
+        "disagree": 5223,
+        "agree_ratio": 1.735784032165422,
+        "agreeance_text": 1.735784032165422
+    },
+    {
+        "name": "New York Times (News)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-times",
+        "bias": "left-center",
+        "agree": 23125,
+        "disagree": 32877,
+        "agree_ratio": 0.7033792620981233,
+        "agreeance_text": 0.7033792620981233
+    },
+    {
+        "name": "New York Times (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/new-york-times-opinion-media-bias",
+        "bias": "left",
+        "agree": 9388,
+        "disagree": 2635,
+        "agree_ratio": 3.56280834914611,
+        "agreeance_text": 3.56280834914611
+    },
+    {
+        "name": "NPR (Online News)",
+        "allsides_page": "https://www.allsides.com/news-source/npr-media-bias",
+        "bias": "center",
+        "agree": 26101,
+        "disagree": 21985,
+        "agree_ratio": 1.1872185581078007,
+        "agreeance_text": 1.1872185581078007
+    },
+    {
+        "name": "NPR (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/npr-editorial",
+        "bias": "left-center",
+        "agree": 5309,
+        "disagree": 5931,
+        "agree_ratio": 0.8951272972517282,
+        "agreeance_text": 0.8951272972517282
+    },
+    {
+        "name": "Politico",
+        "allsides_page": "https://www.allsides.com/news-source/politico-media-bias",
+        "bias": "left-center",
+        "agree": 19440,
+        "disagree": 26425,
+        "agree_ratio": 0.7356669820245979,
+        "agreeance_text": 0.7356669820245979
+    },
+    {
+        "name": "Reason",
+        "allsides_page": "https://www.allsides.com/news-source/reason",
+        "bias": "right-center",
+        "agree": 7618,
+        "disagree": 4734,
+        "agree_ratio": 1.6092099704267004,
+        "agreeance_text": 1.6092099704267004
+    },
+    {
+        "name": "Reuters",
+        "allsides_page": "https://www.allsides.com/news-source/reuters",
+        "bias": "center",
+        "agree": 13035,
+        "disagree": 7034,
+        "agree_ratio": 1.8531418822860393,
+        "agreeance_text": 1.8531418822860393
+    },
+    {
+        "name": "Slate",
+        "allsides_page": "https://www.allsides.com/news-source/slate",
+        "bias": "left",
+        "agree": 6945,
+        "disagree": 3060,
+        "agree_ratio": 2.269607843137255,
+        "agreeance_text": 2.269607843137255
+    },
+    {
+        "name": "The American Spectator",
+        "allsides_page": "https://www.allsides.com/news-source/american-spectator",
+        "bias": "right",
+        "agree": 10411,
+        "disagree": 3704,
+        "agree_ratio": 2.810745140388769,
+        "agreeance_text": 2.810745140388769
+    },
+    {
+        "name": "The Atlantic",
+        "allsides_page": "https://www.allsides.com/news-source/atlantic",
+        "bias": "left-center",
+        "agree": 11209,
+        "disagree": 5650,
+        "agree_ratio": 1.9838938053097346,
+        "agreeance_text": 1.9838938053097346
+    },
+    {
+        "name": "The Daily Caller",
+        "allsides_page": "https://www.allsides.com/news-source/daily-caller",
+        "bias": "right",
+        "agree": 7842,
+        "disagree": 3300,
+        "agree_ratio": 2.3763636363636365,
+        "agreeance_text": 2.3763636363636365
+    },
+    {
+        "name": "The Daily Wire",
+        "allsides_page": "https://www.allsides.com/news-source/daily-wire",
+        "bias": "right",
+        "agree": 7126,
+        "disagree": 2673,
+        "agree_ratio": 2.6659184436962216,
+        "agreeance_text": 2.6659184436962216
+    },
+    {
+        "name": "The Economist",
+        "allsides_page": "https://www.allsides.com/news-source/economist",
+        "bias": "left-center",
+        "agree": 3850,
+        "disagree": 6955,
+        "agree_ratio": 0.5535585909417685,
+        "agreeance_text": 0.5535585909417685
+    },
+    {
+        "name": "The Federalist",
+        "allsides_page": "https://www.allsides.com/news-source/federalist",
+        "bias": "right",
+        "agree": 6080,
+        "disagree": 2081,
+        "agree_ratio": 2.921672272945699,
+        "agreeance_text": 2.921672272945699
+    },
+    {
+        "name": "The Guardian",
+        "allsides_page": "https://www.allsides.com/news-source/guardian",
+        "bias": "left-center",
+        "agree": 10297,
+        "disagree": 6152,
+        "agree_ratio": 1.6737646293888166,
+        "agreeance_text": 1.6737646293888166
+    },
+    {
+        "name": "The Hill",
+        "allsides_page": "https://www.allsides.com/news-source/hill-media-bias",
+        "bias": "center",
+        "agree": 12257,
+        "disagree": 15795,
+        "agree_ratio": 0.7760050648939538,
+        "agreeance_text": 0.7760050648939538
+    },
+    {
+        "name": "The Intercept",
+        "allsides_page": "https://www.allsides.com/news-source/intercept",
+        "bias": "left",
+        "agree": 3606,
+        "disagree": 1154,
+        "agree_ratio": 3.1247833622183707,
+        "agreeance_text": 3.1247833622183707
+    },
+    {
+        "name": "The New Yorker",
+        "allsides_page": "https://www.allsides.com/news-source/new-yorker",
+        "bias": "left",
+        "agree": 6400,
+        "disagree": 1617,
+        "agree_ratio": 3.9579468150896724,
+        "agreeance_text": 3.9579468150896724
+    },
+    {
+        "name": "TheBlaze.com",
+        "allsides_page": "https://www.allsides.com/news-source/theblaze-bias",
+        "bias": "right",
+        "agree": 89432,
+        "disagree": 74109,
+        "agree_ratio": 1.2067630112402004,
+        "agreeance_text": 1.2067630112402004
+    },
+    {
+        "name": "Time Magazine",
+        "allsides_page": "https://www.allsides.com/news-source/time-magazine-news-media-bias",
+        "bias": "left-center",
+        "agree": 7049,
+        "disagree": 5929,
+        "agree_ratio": 1.1889020070838252,
+        "agreeance_text": 1.1889020070838252
+    },
+    {
+        "name": "USA TODAY",
+        "allsides_page": "https://www.allsides.com/news-source/usa-today-media-bias",
+        "bias": "center",
+        "agree": 15570,
+        "disagree": 15111,
+        "agree_ratio": 1.0303752233472305,
+        "agreeance_text": 1.0303752233472305
+    },
+    {
+        "name": "Vox",
+        "allsides_page": "https://www.allsides.com/news-source/vox-news-media-bias",
+        "bias": "left",
+        "agree": 22147,
+        "disagree": 13959,
+        "agree_ratio": 1.586574969553693,
+        "agreeance_text": 1.586574969553693
+    },
+    {
+        "name": "Wall Street Journal (News)",
+        "allsides_page": "https://www.allsides.com/news-source/wall-street-journal-media-bias",
+        "bias": "center",
+        "agree": 17635,
+        "disagree": 21344,
+        "agree_ratio": 0.8262275112443778,
+        "agreeance_text": 0.8262275112443778
+    },
+    {
+        "name": "Wall Street Journal (Opinion)",
+        "allsides_page": "https://www.allsides.com/news-source/wall-street-journal-opinion",
+        "bias": "right-center",
+        "agree": 8330,
+        "disagree": 5685,
+        "agree_ratio": 1.465259454705365,
+        "agreeance_text": 1.465259454705365
+    },
+    {
+        "name": "Washington Examiner",
+        "allsides_page": "https://www.allsides.com/news-source/washington-examiner",
+        "bias": "right-center",
+        "agree": 9005,
+        "disagree": 4190,
+        "agree_ratio": 2.149164677804296,
+        "agreeance_text": 2.149164677804296
+    }
+]
