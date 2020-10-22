@@ -77,8 +77,8 @@ class Editor():
         with open(filepath, "r") as file:
             text = file.read()
             self.master.title(f"NIIT Editor:- {filepath}")
-            self.text_editor.delete("1.0", tk.END)
-            self.text_editor.insert("1.0", text)
+            self.text_editor.delete("0.0", tk.END)
+            self.text_editor.insert("0.0", text)
 
     def save(self):
         """save file"""
@@ -112,3 +112,5 @@ window.geometry(f"{sw}x{sh}")
 window.configure(bg="powder blue")
 editor = Editor(window)
 window.mainloop()
+
+strr = tk.StringVar()

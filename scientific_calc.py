@@ -1,9 +1,10 @@
 from tkinter import *
 
+bgc="burlywood"
 
 root = Tk()
 root.title("Scientific Calculator")
-root.configure(background="powder blue")
+root.configure(background=bgc)
 sw = root.winfo_screenwidth()
 sh = root.winfo_screenheight()
 root.geometry("480x668+0+0")
@@ -41,8 +42,8 @@ class Calculator:
         self.menubar.add_cascade(label="Help", menu=self.help)
 
         self.numpad = "789456123"
-        self.hstDisplay = Label(self.dsp_frame, font=("aria", 20, "bold"), bg="powder blue", justify=RIGHT, text="0", bd=30, relief=SUNKEN)
-        self.txtDisplay = Label(self.dsp_frame, font=("aria", 20, "bold"), bg="powder blue", justify=RIGHT, text="0", bd=30, relief=SUNKEN)
+        self.hstDisplay = Label(self.dsp_frame, font=("aria", 20, "bold"), bg=bgc, justify=RIGHT, text="0", bd=30, relief=SUNKEN)
+        self.txtDisplay = Label(self.dsp_frame, font=("aria", 20, "bold"), bg=bgc, justify=RIGHT, text="0", bd=30, relief=SUNKEN)
         #self.txtDisplay = Entry(self.frame, font=("aria", 20, "bold"), bg="powder blue", justify=RIGHT, text="0", bd=30, relief=SUNKEN)
         #self.txtDisplay.insert(0, "0")
 
@@ -72,25 +73,25 @@ class Calculator:
                 btn_num.grid(row=row, column=col, padx=2)
                 count+=1
         #=============================OPERATORS ===========================
-        btn_zero= Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="0", width=6, height=2, bd=4).grid(row=5, column=0, padx=1, pady=1)
-        btn_dot= Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text=".", width=6, height=2, bd=4).grid(row=5, column=1, padx=1, pady=1)
-        btn_pm= Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="+/-", width=6, height=2, bd=4).grid(row=5, column=2, padx=1, pady=1)
-        btn_equals= Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="=", width=6, height=2, bd=4, command=self.result).grid(row=5, column=3, padx=1, pady=1)
+        btn_zero= Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="0", width=6, height=2, bd=4).grid(row=5, column=0, padx=1, pady=1)
+        btn_dot= Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text=".", width=6, height=2, bd=4).grid(row=5, column=1, padx=1, pady=1)
+        btn_pm= Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="+/-", width=6, height=2, bd=4).grid(row=5, column=2, padx=1, pady=1)
+        btn_equals= Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="=", width=6, height=2, bd=4, command=self.result).grid(row=5, column=3, padx=1, pady=1)
 
-        btn_clear = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="C", width=6, height=2,
+        btn_clear = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="C", width=6, height=2,
                             bd=4).grid(row=1, column=0, padx=1, pady=1)
-        btn_clear_all = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="CE", width=6, height=2,
+        btn_clear_all = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="CE", width=6, height=2,
                             bd=4, command=self.reset).grid(row=1, column=1, padx=1, pady=1)
-        btn_sqrt = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="r", width=6, height=2,
+        btn_sqrt = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="r", width=6, height=2,
                             bd=4).grid(row=1, column=2, padx=1, pady=1)
-        btn_plus = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="+", width=6, height=2,
+        btn_plus = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="+", width=6, height=2,
                             bd=4, command=lambda op= "+": self.operation(op)).grid(row=1, column=3, padx=1, pady=1)
 
-        btn_minus = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="-", width=6, height=2,
+        btn_minus = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="-", width=6, height=2,
                             bd=4, command=lambda op= "-": self.operation(op)).grid(row=2, column=3, padx=1, pady=1)
-        btn_mult = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="x", width=6, height=2,
+        btn_mult = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="x", width=6, height=2,
                             bd=4, command=lambda op= "x": self.operation(op)).grid(row=3, column=3, padx=1, pady=1)
-        btn_div = Button(self.frame, font=("arial", 20, "bold"), bg="powder blue", text="/", width=6, height=2,
+        btn_div = Button(self.frame, font=("arial", 20, "bold"), bg=bgc, text="/", width=6, height=2,
                             bd=4, command=lambda op= "/": self.operation(op)).grid(row=4, column=3, padx=1, pady=1)
 
 
