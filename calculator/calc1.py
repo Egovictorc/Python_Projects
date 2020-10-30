@@ -83,11 +83,12 @@ class Calc:
                           command=lambda x= "0": self.num_handler(x))
         btn_zero.grid(column=1, row=4)
         btn_dot = Button(self.frm_btn, text=".", **btn_props, bg="burlywood",
-                          command=lambda x= ".": self.num_handler(x))
+                          command=self.dot_handler)
         btn_dot.grid(column=2, row=4)
         btn_equals = Button(self.frm_btn, text="=", **btn_props, bg="burlywood",
                           command= self.display_result)
         btn_equals.grid(column=3, row=4)
+
         # *****************top operator btns ****************************#
         for i, j in enumerate(btn_top):
             if i == 0 or i == 1:
@@ -109,6 +110,15 @@ class Calc:
             self.lbl_input["text"] = btn_text
         else:
             self.lbl_input["text"] = text + btn_text
+
+
+    # *********************** function number handler **********************#
+    def dot_handler(self):
+        text = self.lbl_input["text"]
+        if "." in text:
+            return
+        else:
+            self.num_handler(".")
 
     def opr_handler(self, opr):
         cur_text = self.lbl_input["text"]
