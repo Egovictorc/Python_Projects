@@ -131,7 +131,6 @@ class Calc:
             self.operator = opr
             self.lbl_history["text"] = f"{cur_text} {opr}"
             self.lbl_input["text"] = ""
-
         else:
             self.compute()
             self.operator = opr
